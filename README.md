@@ -2,7 +2,7 @@
 Tableau
 
 
-##Overview of the analysis: 
+## Overview of the analysis: 
 We are trying to convince investors of the viable opportunity in the bike-sharing business in Des Moines. Using Tablaeu, we have produced a number of visuals to show investors more about the target market.
 
 
