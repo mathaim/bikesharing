@@ -3,7 +3,7 @@ Tableau
 
 
 ## Overview of the analysis: 
-The objective is to convince investors of the viable opportunity in the bike-sharing business in Des Moines. Using Tablaeu, we have produced a number of visuals to show investors more about the target market.
+The objective is to convince investors of the viable opportunity in the bike-sharing business in Des Moines. Using Tableau, we have produced a number of visuals to show investors more about the target market.
 
 
 ## Results: 
